@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @Great-Monkey
-- 🌱 I’m currently learning DAM
 
 <!---
 Great-Monkey/Great-Monkey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
